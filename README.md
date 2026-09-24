@@ -8,7 +8,7 @@ Site pessoal de portfólio de **Marlus Silva, Engenheiro de Software**, com apre
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-🔗 **Site no ar:** marlusulissesportifolio.com.br
+🔗 **Site no ar:** [Acessar o portfólio](https://marlusulissesportifolio.com.br)
 
 <!-- Dica: adicione um print do site em docs/preview.png e descomente a linha abaixo -->
 [Prévia do portfólio](docs/preview.png) 
