@@ -19,8 +19,3 @@
 ## 💡 This project is perfect for showcasing your web development skills in a creative and visually appealing way. You’ll walk away with a complete portfolio that you can use or customize for your personal brand or clients.
 
 
----
-## Watch the full tutorial on YouTub
-<a href="https://www.youtube.com/watch?v=vXHDfrFMoog&list=PL67b5wgxuUtAzzyFFMZ8W3w_XV4jJfH-8">
-  <img src="./youtube.png" alt="youtube"/>
-</a>
